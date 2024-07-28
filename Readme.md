@@ -11,7 +11,7 @@ cd SGPLG/
 python generate_label.py
 ```
 
-# Training SGPA-Net(需要先把对应的数据下载放入主目录)
+# Training SGPA-Net
 
 链接：[https://pan.baidu.com/s/1V0_qXcego09C8yvffe1F5Q](https://pan.baidu.com/s/1V0_qXcego09C8yvffe1F5Q)
 提取码：ivht
@@ -35,12 +35,13 @@ python SCLGPA.py
 # Cition
 
 ```python
-@misc{weng2023enhancing,
-      title={Enhancing Point Annotations with Superpixel and Confidence Learning Guided for Improving Semi-Supervised OCT Fluid Segmentation}, 
-      author={Tengjin Weng and Yang Shen and Kai Jin and Zhiming Cheng and Yunxiang Li and Gewen Zhang and Shuai Wang and Yaqi Wang},
-      year={2023},
-      eprint={2306.02582},
-      archivePrefix={arXiv},
-      primaryClass={cs.CV}
+@article{weng2024enhancing,
+  title={Enhancing point annotations with superpixel and confident learning guided for improving semi-supervised OCT fluid segmentation},
+  author={Weng, Tengjin and Shen, Yang and Jin, Kai and Wang, Yaqi and Cheng, Zhiming and Li, Yunxiang and Zhang, Gewen and Wang, Shuai},
+  journal={Biomedical Signal Processing and Control},
+  volume={94},
+  pages={106283},
+  year={2024},
+  publisher={Elsevier}
 }
 ```
